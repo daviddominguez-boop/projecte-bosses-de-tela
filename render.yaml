@@ -1,7 +1,0 @@
-services:
-  - type: web
-    name: projecte-bosses-de-tela
-    runtime: node
-    plan: free
-    buildCommand: npm install
-    startCommand: npm start
