@@ -1,8 +1,0 @@
-services:
-  - type: web
-    name: quizkahoot-multijugador
-    runtime: node
-    plan: free
-    buildCommand: npm install
-    startCommand: npm start
-    healthCheckPath: /health
