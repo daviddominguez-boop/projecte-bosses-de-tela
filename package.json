@@ -1,0 +1,14 @@
+{
+  "name": "quizkahoot-multiplayer",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Web de cuestionarios multijugador con salas por c\u00f3digo",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "socket.io": "^4.8.1"
+  }
+}
